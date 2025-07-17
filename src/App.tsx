@@ -1,4 +1,3 @@
-import React from 'react'
 import Hero from './screens/Hero'
 import SearchSection from './screens/SearchSection'
 import RequirementsSection from './screens/RequirementsSection'
